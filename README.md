@@ -13,6 +13,7 @@ Microservicio para administrar un taller mecánico, gestionando mecánicos, clie
 - Lombok
 - Jackson
 - Bean Validation
+- AWS RDS
 
 ## Requisitos del sistema
 - JDK 17 o superior
